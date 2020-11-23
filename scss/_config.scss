@@ -1,0 +1,12 @@
+@font-face{
+  font-family: NotoSansGeorgian;
+  src: url('../font/NotoSansGeorgian-Regular.ttf');
+}
+
+@font-face{
+  font-family: InterLight;
+  src: url('../font/Inter-Light-slnt=0.ttf');
+}
+
+$default-font: NotoSansGeorgian;
+$secondary-font: InterLight;
