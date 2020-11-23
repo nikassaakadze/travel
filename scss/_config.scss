@@ -4,9 +4,15 @@
 }
 
 @font-face{
+  font-family: NotoSansGeorgianBold;
+  src: url('../font/NotoSansGeorgian-Bold.ttf');
+}
+
+@font-face{
   font-family: InterLight;
   src: url('../font/Inter-Light-slnt=0.ttf');
 }
 
 $default-font: NotoSansGeorgian;
+$bold-georgian: NotoSansGeorgianBold;
 $secondary-font: InterLight;
